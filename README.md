@@ -12,5 +12,6 @@
 
 ## Skills
 
+- [ai-case-study-publisher](skills/ai-case-study-publisher/SKILL.md)：手动将高价值 AI 开发/设计案例还原、公开化并发布为个人技术博客。
 - [skill-design-guide](skills/skill-design-guide/SKILL.md)：用于设计、重构、评审 Agent Skill 的方法论 Skill。
 - [figma-design](skills/figma-design/SKILL.md)：用于从 Figma 设计稿落地前端实现的工作流 Skill。

@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI 案例博客发布"
+  short_description: "将高价值 AI 工程案例还原、写作并发布为个人技术博客"
+  default_prompt: "Use $ai-case-study-publisher to draft this AI engineering case as a publishable article."
+policy:
+  allow_implicit_invocation: false
