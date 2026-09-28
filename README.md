@@ -4,6 +4,7 @@
 
 ## Articles
 
+- [事实优先于流程：为什么我们最终删除了全局 Coordinator](articles/事实优先于流程：为什么我们最终删除了全局%20Coordinator.md)
 - [多维表格 Skill 设计范式分析：面向 Agent 的企业级 Skill 架构](articles/多维表格%20Skill%20设计范式分析：面向%20Agent%20的企业级%20Skill%20架构.md)
 - [12个 Agent Skill 设计原则：从知识堆叠到工作流系统（附 Skill）](articles/12个%20Agent%20Skill%20设计原则：从知识堆叠到工作流系统（附%20Skill）.md)
 - [从 Figma 还原复盘到 Agent Skill 工程化设计（附 Skill）](articles/从%20Figma%20还原复盘到%20Agent%20Skill%20工程化设计（附%20Skill）.md)
