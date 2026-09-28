@@ -1,6 +1,6 @@
 ---
 name: ai-case-study-publisher
-description: "将指定的 AI 开发或设计案例还原为证据充分、适合公开分享的中文技术文章。仅在用户明确点名此 Skill 时使用。"
+description: "将真实的 AI 开发或设计案例还原为证据充分、适合公开分享的中文技术文章，并按用户授权进行草拟或发布。"
 ---
 
 # AI Case Study Publisher
